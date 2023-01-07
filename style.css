@@ -1,0 +1,17 @@
+body{
+	background-color: white
+
+}
+
+.box > div
+.bm1{
+	width: 1000px;
+	height: 800px;
+	background-color: white;
+}
+
+img{
+	margin-right: auto;
+	margin-left: auto;
+	width: 6em
+}
