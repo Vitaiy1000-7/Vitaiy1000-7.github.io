@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="src/style/style.css">
+	<title></title>
+</head>
+<body>
+	<div class="box">
+		<div class="bm1">
+			<img src="src/img/ppp.png">
+		</div>
+	</div>
+<hr 
+</body>
+</html>
